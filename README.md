@@ -4,6 +4,14 @@
 Welcome to **Arkanoid**, a classic brick-breaking game implemented from scratch in **Java**, as part of an academic-level project combining **object-oriented design**, **event-driven programming**, and **animation systems**.
 
 This project demonstrates a high level of software engineering skills, including modular design, interface-based architecture, extendability, and clean coding practices.
+## 🎮 Game Screenshots
+
+<p align="center">
+  <img src="screenshots/level1.png" width="45%" />
+  <img src="screenshots/level2.png" width="45%" />
+</p>
+
+
 
 ---
 ---
