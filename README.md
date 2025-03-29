@@ -128,8 +128,6 @@ This project reflects **professional-level game development practices**:
 - Easy to add new levels or mechanics without breaking existing code
 - Uses classic design patterns for event handling and animation control
 
-It serves as an impressive academic or portfolio project that demonstrates advanced Java skills, thoughtful design, and clean code architecture.
-
 ---
 
 Built with ❤️ and Java. Enjoy the game!
