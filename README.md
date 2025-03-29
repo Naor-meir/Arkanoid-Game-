@@ -7,8 +7,8 @@ This project demonstrates a high level of software engineering skills, including
 ## 🎮 Game Screenshots
 
 <p align="center">
-  <img src="screenshots/level1.png" width="45%" />
-  <img src="screenshots/level2.png" width="45%" />
+  <img src="screenshots/image1.png" width="45%" />
+  <img src="screenshots/image2.png" width="45%" />
 </p>
 
 
